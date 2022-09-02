@@ -4,7 +4,11 @@ If you don't want to use Telegram, u can send your self e-mails by Gmail. Repalc
 First of all, u have to start run.py
 It will wait for an answer. U can run thr process or test some features...
 
+
 "email" or "telegram" will send a try message.
+
 "sql" will create the needed database and tables.
+
 "duplicated" will delete all duplicated links.(u must have started before)
+
 "unwanted" will delete all links of non desired companies.
