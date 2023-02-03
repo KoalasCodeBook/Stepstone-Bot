@@ -137,17 +137,3 @@ while True:
         
 
 
-"""
-
-teile die liste in THREAD (3)...
-speicher die links in THREAD (3) verschiede .files/temp/ortner/datein
-
-starte auf einmal THEAD(3) verschiedene Opera Tabs wo links durch gehen
-alle gezogenen datein im jeweiligen ortner abspeichern
-
-wenn im (thread) process ein fehler entstehnt geht email an Timo...
-
-wenn einer dieser processe fertig wird erstelle csv aus der sql datei
-
-
-"""
