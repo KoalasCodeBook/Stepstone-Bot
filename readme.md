@@ -2,7 +2,7 @@ To use my Bot, you have to create a Telegram-Group and add you're own Telegram-B
 If you don't want to use Telegram, u can send your self e-mails by Gmail. Repalce TeleMessage() function with sendMail() in functions.py. Don't forget to change the Sender ID and the Passwort. 
 
 First of all, u have to start run.py
-It will wait for an answer. U can run thr process or test some features...
+It will wait for an answer. U can run the process or test some features...
 
 
 "email" or "telegram" will send a try message.
